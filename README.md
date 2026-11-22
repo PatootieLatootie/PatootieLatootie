@@ -21,5 +21,5 @@ I'm interested in software development, programming, software testing and buildi
 - Specialisation: Real-Time Interactive Systems (RTIS)
 
 ### 📫 Connect With Me
-- LinkedIn: [Add your LinkedIn URL]
+- LinkedIn: www.linkedin.com/in/rufus-how-698018265
 - Email: Howrufus@gmail.com
